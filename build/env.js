@@ -2,7 +2,7 @@ window.env = {
   "ALLUSERSPROFILE": "C:\\ProgramData",
   "APPDATA": "C:\\Users\\HP\\AppData\\Roaming",
   "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "true",
-  "AUTH_URL": "https://accounts.spotify.com/authorize?client_id=9db34a83eef04cb7a1231d29994065f9&response_type=code&redirect_uri=https://guarded-refuge-12555.herokuapp.com/&scope=streaming%20user-read-email%20user-read-private%20user-library-read%20user-library-modify%20user-read-playback-state%20user-modify-playback-state",
+  "AUTH_URL": "https://accounts.spotify.com/authorize?client_id=9db34a83eef04cb7a1231d29994065f9&response_type=code&redirect_uri=https://guarded-refuge-12555.herokuapp.com&scope=streaming%20user-read-email%20user-read-private%20user-library-read%20user-library-modify%20user-read-playback-state%20user-modify-playback-state",
   "CHROME_CRASHPAD_PIPE_NAME": "\\\\.\\pipe\\crashpad_11552_QVIRULIKVWJAVJAH",
   "CLIENT_ID": "9db34a83eef04cb7a1231d29994065f9",
   "COLORTERM": "truecolor",
